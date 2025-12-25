@@ -1,16 +1,13 @@
-# React + Vite
+## 🎮 How to Play
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Test your vocabulary in this 5-letter word challenge! You have six tries to uncover the hidden word. After every guess, the tile colors will shift to show how close you are to the solution."
 
-Currently, two official plugins are available:
+### 💡 The Rules
+*   **🟩 Correct:** The letter is in the right spot.
+*   **🟨 Present:** The letter is in the word but in the wrong spot.
+*   **⬛ Absent:** The letter isn't in the word at all.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 🔄 Resetting the Game
+**Stuck?** Hit the **Reset** button at any time to start a fresh game with a new word!
