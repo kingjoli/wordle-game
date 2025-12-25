@@ -1,0 +1,25 @@
+body{
+  background-color: #242424;
+}
+
+.main-title{
+ text-align: center;
+ margin-top: 40px;
+}
+
+span {
+  font-size: 0.8rem;
+  color: #666;
+  vertical-align: top;
+}
+
+/* button {
+  background-color: rgb(0, 145, 255);
+} */
+
+.reset-button {
+  display: flex;
+  justify-content: center;
+  margin-top:10px;
+  margin-bottom: 20px;
+}
